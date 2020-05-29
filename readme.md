@@ -24,7 +24,7 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ---
 
-# 问我任何问题！（Ask Me Anything!/AMA）
+# 问我任何问题！
 
 ## [问一个问题](../../issues/new) &nbsp;&nbsp;&nbsp; [阅读已有的问题](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
